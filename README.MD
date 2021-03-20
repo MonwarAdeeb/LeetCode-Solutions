@@ -1,1 +1,1 @@
-## In this repository, I'll be adding the solutions to all the problems I'll be solving on https://leetcode.com/adeeb01
+## In this repository, I'll be adding the solutions to all the problems I'll be solving on www.leetcode.com/adeeb01
